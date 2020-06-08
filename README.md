@@ -1,6 +1,6 @@
 # TeensyMidiController
 
-One to two paragraph statement about your product and what it does.
+This is a repository for a teensy midi controller with banks - with a command line listener that allows to run commands on note play from the device - you can also light up LEDs by playing MIDI notes to the device on TM1638 LED&KEY module.
 
 ![Prototype image](https://github.com/cechownia/TeensyMidiController/blob/master/doc/img/prototype.jpg?raw=true)
 
