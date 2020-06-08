@@ -33,7 +33,7 @@ At the time of writing version of *pygame* was *1.9.6*
 
 This script runs untill you kill it. Now you can press buttons on the midi controller and the python script should react and LED's should work like on this video
 
-[![Play video](https://media.giphy.com/media/gfx0BmaPcHfDG8a9HZ/giphy.gif)](https://vimeo.com/427071713 "Prototype in action")
+[![Play video](https://github.com/cechownia/TeensyMidiController/blob/master/doc/img/midigif.gif?raw=true)](https://vimeo.com/427071713 "Prototype in action")
 
 With the project opened in *Visual Studio Code* you should be ready to develop
 
