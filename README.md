@@ -1,4 +1,4 @@
-# TeensyMidiController
+# TeensyMidiController [![Build Status](https://travis-ci.com/cechownia/TeensyMidiController.svg?branch=master)](https://travis-ci.com/cechownia/TeensyMidiController)
 
 This is a repository for a teensy midi controller with banks - with a command line listener that allows to run commands on note play from the device - you can also light up LEDs by playing MIDI notes to the device on TM1638 LED&KEY module.
 
