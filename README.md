@@ -2,7 +2,7 @@
 
 One to two paragraph statement about your product and what it does.
 
-![Prototype image](https://github.com/cechownia/TeensyMidiController/blob/master/doc/image/prototype.png?raw=true)
+![Prototype image](https://github.com/cechownia/TeensyMidiController/blob/master/doc/img/prototype.jpg?raw=true)
 
 ## Maker resources
 
